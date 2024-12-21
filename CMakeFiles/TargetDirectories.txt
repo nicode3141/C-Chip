@@ -1,0 +1,3 @@
+/home/nicol/OneDrive/nicodeGmbH/C-Chip/CMakeFiles/chip_c.dir
+/home/nicol/OneDrive/nicodeGmbH/C-Chip/CMakeFiles/edit_cache.dir
+/home/nicol/OneDrive/nicodeGmbH/C-Chip/CMakeFiles/rebuild_cache.dir

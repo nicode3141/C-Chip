@@ -1,0 +1,1 @@
+/c/MinGW/bin/gcc.exe -Wl,--enable-auto-import CMakeFiles/chip_c.dir/include/cJSON.c.o "CMakeFiles/chip_c.dir/src/frame-to-ascii.c.o" CMakeFiles/chip_c.dir/src/main.c.o -o chip_c.exe -Wl,--out-implib,libchip_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lwinmm 
